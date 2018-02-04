@@ -1,9 +1,15 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>australia_ken.md</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
-
-<h1 id="澳大利亚--2018">澳大利亚  2018</h1>
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="澳大利亚--2018">澳大利亚  2018</h1>
 <p>@kenqcl</p>
 <p>上海 -&gt; 墨尔本 -&gt; 凯恩斯 -&gt; 布里斯班 -&gt; 悉尼 -&gt; 上海<br>
 <a href="https://drive.google.com/open?id=1OF5N7gbtPE1iI_rTncgnqjs5iyFS9yYq&amp;usp=sharing">google map</a></p>
@@ -98,4 +104,7 @@
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
+</div>
+</body>
 
+</html>
